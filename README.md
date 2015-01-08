@@ -1,3 +1,3 @@
 # AAD116-essay
 
-[essay](https://github.com/Aineoh/AAD116-essay.git)
+[Paul Rand essay](http://aineoh.github.io/AAD116-essay.)
